@@ -1,0 +1,17 @@
+Tue Aug  6 07:31:57 AM EEST 2024 : System_Display.sh
+Tue Aug  6 07:32:33 AM EEST 2024 : Devices_Info.sh
+Tue Aug  6 07:32:53 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:33:41 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:35:02 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:36:58 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:39:54 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:40:31 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:40:47 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:44:33 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 07:45:01 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 08:27:09 AM EEST 2024 : Network_Info.sh
+Tue Aug  6 08:27:12 AM EEST 2024 : Devices_Info.sh
+Tue Aug  6 02:47:57 PM EEST 2024 : Reboot_Shutdown.sh
+Tue Aug  6 02:48:54 PM EEST 2024 : Reboot_Shutdown.sh
+Tue Aug  6 02:51:09 PM EEST 2024 : Reboot_Shutdown.sh
+Tue Aug  6 02:54:12 PM EEST 2024 : Reboot_Shutdown.sh

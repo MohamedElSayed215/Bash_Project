@@ -6,10 +6,12 @@ while [ true ] ;
             do 
                 case $choice in
                "Change  CPU Policy" ) 
-                echo "Sorry ! it is not avaliable in VM .."                   
+                echo "Sorry ! it is not avaliable in VM .."
+                sleep 3                   
                 ;;
                "Battery Info") 
-                   acpi 
+                   acpi
+                   sleep 3 
                     ;;
                "Control PC LED ") 
                    select input in "ON-NUM-LOCK" "OFF-NUM-LOCK"

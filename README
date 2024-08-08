@@ -33,7 +33,5 @@ The application should have an always on log file which saves the logs of the ex
 
 use bash bash_project.sh to run 
 #################################
-insite the project use : 
-sudo ./bash_project.sh to be admin
-./bash_project.sh to be user 
+  
 #################################
